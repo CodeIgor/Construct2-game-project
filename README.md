@@ -1,6 +1,6 @@
-# Construct2-game-project
+# Construct2 game project
 
--Projeto realizado para faculdade
--Gamificação
+* Projeto realizado no primeiro ano faculdade UGB  `Sistemas de Informação`
+* Gamificação
 
-https://hackermath.netlify.app
+[Acesse o jogo aqui!](https://hackermath.netlify.app)
