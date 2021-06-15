@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1623710634,
+	"version": 1623727988,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,10 @@
 		"images/sprite-sheet0.png",
 		"images/fundo.png",
 		"images/botao.png",
+		"images/tiledbackground.png",
+		"images/logo-sheet0.png",
+		"images/logo-sheet1.png",
+		"images/git.png",
 		"media/spawn.m4a",
 		"media/spawn.ogg",
 		"icon-16.png",
@@ -16,6 +20,8 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
+		"loading-logo2.png",
+		"logo_animated.gif",
 		"doctor_glitch-webfont.eot",
 		"doctor_glitch-webfont.svg",
 		"doctor_glitch-webfont.ttf",
