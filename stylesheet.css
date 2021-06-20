@@ -14,3 +14,11 @@
     font-style: normal;
 
 }
+body{
+    background-color: rgb(5, 20, 5);
+}
+@media (min-width:1200px) {
+    body{
+        background-image: url('bg.gif');
+    }
+}

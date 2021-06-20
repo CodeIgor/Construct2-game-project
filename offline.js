@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1623727988,
+	"version": 1624148769,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,9 +11,8 @@
 		"images/tiledbackground.png",
 		"images/logo-sheet0.png",
 		"images/logo-sheet1.png",
+		"images/logo-sheet2.png",
 		"images/git.png",
-		"media/spawn.m4a",
-		"media/spawn.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -27,6 +26,7 @@
 		"doctor_glitch-webfont.ttf",
 		"doctor_glitch-webfont.woff",
 		"doctor_glitch-webfont.woff2",
-		"stylesheet.css"
+		"stylesheet.css",
+		"bg.gif"
 	]
 }
