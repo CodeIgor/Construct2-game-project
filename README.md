@@ -3,7 +3,8 @@
 
 # Construct2
 
-* Projeto realizado no primeiro ano faculdade UGB  `Sistemas de Informação`
-* Gamificação
+* Projeto realizado no primeiro ano de faculdade `Sistemas de Informação` UGB
+- **Gamificação**
+  - O intuito do jogo é incentivar o aprendizado matemático através de um jogo onde, para conseguir pontos, é necessário acertar o resultado da equação
 
 [Acesse o jogo aqui!](https://hackermath.netlify.app)
